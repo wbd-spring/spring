@@ -6,6 +6,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
+ * 自定义的注解
  * 自定义注解， 采用 @interface 
  * 一个注解可以拥有多个成员，成员声明与接口方法声明类似，
  * 成员声明的限制:
