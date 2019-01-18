@@ -13,18 +13,27 @@
     <version>4.3.11.RELEASE</version>
 </dependency>
   
-  
+  <!-- spring aop -->
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-aop</artifactId>
     <version>4.3.11.RELEASE</version>
 </dependency>
   
+  <!-- aspectj -->
   <dependency>
     <groupId>org.aspectj</groupId>
     <artifactId>aspectjweaver</artifactId>
     <version>1.6.6</version>
 </dependency>
+  
+  <!-- spel -->
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-expression</artifactId>
+    <version>4.3.12.RELEASE</version>
+</dependency>
+  
   
   </dependencies>
   

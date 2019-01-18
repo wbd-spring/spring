@@ -11,5 +11,7 @@ public class NavieWaiter implements Waiter {
 	public void serverTo(String clientName) {
 		System.out.println("为你服务" + clientName);
 	}
+	
+	
 
 }
